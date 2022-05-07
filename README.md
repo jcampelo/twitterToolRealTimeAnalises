@@ -1,2 +1,2 @@
 # twitterToolRealTimeAnalises
- Analises on twitters using python code
+ Performs analises on twitters using python code
